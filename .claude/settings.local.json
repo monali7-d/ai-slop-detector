@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:x.com)",
+      "Bash(npm --version)",
+      "Bash(gh auth:*)",
+      "Bash(pnpm --version)",
+      "Bash(yarn --version)",
+      "Bash(bun --version)",
+      "Bash(curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh)",
+      "Bash(bash)",
+      "Bash(cp -r /private/tmp/ai-slop-detector/* \"/Users/monalidambre/Desktop/New interface/\")",
+      "Bash(cp /private/tmp/ai-slop-detector/.gitignore \"/Users/monalidambre/Desktop/New interface/\")",
+      "Bash(cp /private/tmp/ai-slop-detector/.eslintrc.cjs \"/Users/monalidambre/Desktop/New interface/\")"
+    ]
+  }
+}
