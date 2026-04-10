@@ -1,7 +1,7 @@
-import AIHumanizer from './Humanizer'
+import SlopDetector from './Humanizer'
 
 function App() {
-  return <AIHumanizer />
+  return <SlopDetector />
 }
 
 export default App
