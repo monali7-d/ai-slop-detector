@@ -90,6 +90,4 @@ Think of it as a linter for AI writing patterns, not a plagiarism detector.
 
 Patterns based on [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup.
 
-## License
 
-MIT
